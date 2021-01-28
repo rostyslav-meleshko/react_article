@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AACA,GACE,iBAAkB,CAClB,aAAuB,CACxB,EAGC,qBAAuB,CACvB,kBAAmB","file":"main.58b29382.chunk.css","sourcesContent":["// style go here\nh1 {\n  text-align: center;\n  color: rgb(50, 34, 109);\n}\n\np {\n  border: black 1px solid;\n  text-align: justify;\n}"]}
